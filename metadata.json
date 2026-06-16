@@ -1,0 +1,6 @@
+{
+  "name": "Los Rosales - Gestor TI",
+  "description": "Sistema de administración de inventario de TI y soporte técnico para Fundación Los Rosales. Desarrollado por Softmerc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
